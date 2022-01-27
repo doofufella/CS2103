@@ -1,6 +1,5 @@
 {
     "java.project.sourcePaths": [
-        "default/src",
         "src"
     ],
     "java.project.outputPath": "bin"
