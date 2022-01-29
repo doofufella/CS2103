@@ -1,6 +1,6 @@
 # User Guide
 
-?? WHat is this.
+
 
 ## Features 
 
