@@ -1,20 +1,15 @@
 # CS2103/T: Software Engineering
 
-## Getting Started
+Hi this is essentially a *clone* of CS2103's [official repo](https://github.com/nus-cs2103-AY2122S2/ip). 
+We shall use this to simulate the **source repo** for pushing pull requests to, i.e. this repo will accept/reject pull requests.
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+---
+To my understanding, CS2103 uses the fork & pull request model.
+1. Fork the source repo (this one)
+2. Choose a task & base branch (no task so just use main)
+3. Clone the fork to your computer
+4. Create a new branch (with a meaningful name) from the base branch you chose(should be main)
+5. Make commits
+6. Push branch to the GitHub fork; then create a pull request from your branch to the [base branch](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests)
+---
 
-## Folder Structure
-
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
